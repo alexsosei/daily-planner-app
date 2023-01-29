@@ -46,4 +46,9 @@ function formatAMPM(hours) {
 }
 formatAMPM();
 
-function updateColors
+function updateColors(){
+    var currentTime = new Date().getHours();
+    for (var i = 9; i < 18; i++) {
+    console.log(currentTime, $(`#${i}`)
+    }
+}

@@ -4,6 +4,13 @@ body {
   line-height: 1;
 }
 
+.time-block {
+  width: 300px;
+  background: #566570;
+  border-radius: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #06aed5;
+}
 textarea {
   background: transparent;
   border: none;

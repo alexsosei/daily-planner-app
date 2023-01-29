@@ -53,15 +53,15 @@ textarea {
 }
 
 .future {
-  background-color: #77dd77;
-  color: green;
+  background-color: #beeabe;
+  color: rgb(203, 240, 203);
 }
 
 .saveBtn {
   border-left: 1px solid black;
   border-top-right-radius: 15px;
   border-bottom-right-radius: 15px;
-  background-color: #06aed5;
+  background-color: #91ca1f;
   color: white;
   height: 100%;
   width: 100%;

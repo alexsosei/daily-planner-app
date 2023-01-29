@@ -56,3 +56,9 @@ function updateColors(){
        $(`#text${i}`).addClass( "future");
     }
 }
+}
+
+setInterval(function() {
+    updateColors();
+}, 1000);
+

@@ -15,4 +15,8 @@ var row = $(`<div data-time=${i} id='${i}' class="row">`);
 var col1 = $(`<div class="col-sm-2"> <p class="hour">`);
 
 // create column 2
-var col2 = $(`<div class="col-sm-8 past"><textarea id=text${i} class="description" placeholder="Add your event here ..."></textarea>`);
+var col2 = $(`<div class="col-sm-8 past"><textarea id=text${i} class="description" placeholder="Add event..."></textarea>`);
+
+//create column 3
+var col3 = $(`<div class="col-sm-2"><button class="saveBtn" id=${i}><i class="fas fa-save"></i></button>`);
+

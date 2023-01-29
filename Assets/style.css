@@ -43,8 +43,13 @@ textarea {
 }
 
 .past {
+<<<<<<< HEAD
   background-color: #a49b9b;
   color: rgb(147, 141, 141);
+=======
+  background-color: #566570;
+  color: rgb(198, 213, 218);
+>>>>>>> 6097889f90ef41b65e1beb0685be78c0fe1f247d
 }
 
 .present {
@@ -53,8 +58,13 @@ textarea {
 }
 
 .future {
+<<<<<<< HEAD
   background-color: #beeabe;
   color: rgb(203, 240, 203);
+=======
+  background-color: #5c7e5c;
+  color: rgb(132, 154, 132);
+>>>>>>> 6097889f90ef41b65e1beb0685be78c0fe1f247d
 }
 
 .saveBtn {

@@ -20,3 +20,14 @@ var col2 = $(`<div class="col-sm-8 past"><textarea id=text${i} class="descriptio
 //create column 3
 var col3 = $(`<div class="col-sm-2"><button class="saveBtn" id=${i}><i class="fas fa-save"></i></button>`);
 
+// append col to row
+row.append(col1);
+row.append(col2);
+row.append(col3);
+
+// last step add rows to container
+$(".container").append(row);
+
+getLocalStorage(i);
+    }
+    

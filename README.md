@@ -9,3 +9,17 @@ This app is built to help employees manage their time efficiently by creating an
 - Saves the event in local storage when the save button is clicked in that timeblock.
 - Persist events between refreshes of a page.
 
+## Installation
+The app is deployed using link 
+
+## Usage
+The web app is registered and displayed in screenshot below ![login]
+
+## License
+The license used is MIT license
+
+## Features
+The feature branches are called feature/add-css and feature/add-js.
+
+## Tests
+The app was tesed using open live server many times. 

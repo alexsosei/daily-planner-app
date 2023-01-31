@@ -4,6 +4,16 @@ function getLocalStorage(key) {
     $('#text${key}');
  }
 }
+
+function getTime(number){
+    const time = number % 12
+
+    if(time < 12)
+      return `${time === 0 ? number : time }AM`
+
+    return `${time}PM`
+ }
+
 $( document ).ready(function () {
     $("#currentDay").text(moment().format("dddd,MMMM Do"));
     for (let i = 9; i< 18; i++) {
@@ -13,7 +23,7 @@ var row = $(`<div data-time=${i} id='${i}' class="row">`);
 
 
 // create column 
-var col1 = $(`<div class="col-sm-2"> <p class="hour">`);
+var col1 = $(`<div class="col-sm-2"> ${getTime(i)}<p class="hour">`);
 
 
 // create column 2

@@ -33,7 +33,7 @@ textarea {
 .row {
   white-space: pre-wrap;
   height: 80px;
-  border-top: 1px solid white;
+  border-top: 1px solid rgb(161, 156, 156);
 }
 
 .hour {
@@ -43,9 +43,9 @@ textarea {
 }
 
 .past {
-  background-color: #a49b9b;
-  color: rgb(147, 141, 141);
-  background-color: #566570;
+  background-color: #a24949;
+  color: rgb(186, 27, 27);
+  background-color: #c0a71c;
   color: rgb(198, 213, 218);
 }
 

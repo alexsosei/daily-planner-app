@@ -10,13 +10,13 @@ This app is built to help employees manage their time efficiently by creating an
 - Persist events between refreshes of a page.
 
 ## Installation
-The app is deployed using link 
+The app is deployed using link https://alexsosei.github.io/daily-planner-app/
 
 ## Usage
 The web app is registered and displayed in screenshot below ![login](https://github.com/alexsosei/daily-planner-app/blob/main/Assets/images/Work%20Day%20Scheduler.webm)
 
 ## License
-The license used is MIT license
+The license used is MIT license.
 
 ## Features
 The feature branches are called feature/add-css and feature/add-js.

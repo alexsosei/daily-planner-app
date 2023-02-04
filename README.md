@@ -13,7 +13,7 @@ This app is built to help employees manage their time efficiently by creating an
 The app is deployed using link https://alexsosei.github.io/daily-planner-app/
 
 ## Usage
-The web app is registered and displayed in screenshot below ![login](https://github.com/alexsosei/daily-planner-app/blob/main/Assets/images/Work%20Day%20Scheduler.webm)
+The web app is registered and displayed in screenshot below ![login](https://github.com/alexsosei/daily-planner-app/blob/main/Assets/images/05-third-party-apis-homework-demo.gif)
 
 ## License
 The license used is MIT license.
